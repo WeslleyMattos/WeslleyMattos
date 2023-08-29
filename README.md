@@ -1,11 +1,12 @@
 ## Hello World 👋 Sou o Weslley, Estudante de programação e tecnologia!
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyMattos&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
- 
+ </p>
 ## Minhas skills :nerd_face:
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -29,15 +30,14 @@
     <a href="https://github.com/WeslleyMattos">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/WeslleyMattos">
     </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
   <a href = "mailto:weslleymattos2009@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
-  <a href="https://www.linkedin.com/in/weslley-mattos-792554207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/weslley-mattos-792554207/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </p>
 
 <p align="center"> 
