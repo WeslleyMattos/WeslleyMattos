@@ -26,10 +26,6 @@
 
 ## Meus contatos :iphone:
 
-<p align="center">
-    <a href="https://github.com/WeslleyMattos">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/WeslleyMattos">
-    </a>
     
   <a href = "mailto:weslleymattos2009@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
