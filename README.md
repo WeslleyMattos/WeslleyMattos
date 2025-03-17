@@ -1,4 +1,4 @@
-## Hello World 👋 Sou o Weslley, Estudante de programação e tecnologia!
+## Hello World 👋 Sou o Weslley, desenvolvedor apaixonado por tecnologia e inovação!
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
