@@ -6,9 +6,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyMattos&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
-
-    ![](https://raw.githubusercontent.com/WeslleyMattos/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-    ![](https://raw.githubusercontent.com/WeslleyMattos/github-stats/master/generated/overview.svg#gh-light-mode-only)
  </p>
 ## Minhas skills :nerd_face:
 <div align="center">
