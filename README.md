@@ -1,6 +1,6 @@
 ## Hello World 👋 Sou o Weslley, Estudante de programação e tecnologia!
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyMattos&layout=compact&langs_count=7&theme=dracula"
