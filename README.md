@@ -1,5 +1,6 @@
 ## Hello World 👋 Sou o Weslley, Estudante de programação e tecnologia!
 <p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 
     <img
       align="center"
