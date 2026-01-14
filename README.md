@@ -15,36 +15,17 @@
 
 ---
 
-## 🧠 Atributos
+## 🧙‍♂️ Status do Personagem
 
-| Atributo        | Valor |
-|-----------------|-------|
-| 💪 Força        | 15     |
-| 🧠 Inteligência | 18    |
-| ⚡ Agilidade    | 14    |
-| 🛡️ Resistência | 15    |
-| 🧙 Sabedoria    | 16    |
-| 🎭 Carisma      | 13    |
-
----
-
-## ⚔️ Skills Técnicas (Habilidades Ativas)
-
-- **Nuxt.js** — *Invocação de Interfaces Modernas*
-- **JavaScript** — *Manipulação do Tempo e do DOM*
-- **HTML5** — *Estruturação de Realidades*
-- **CSS / Tailwind** — *Estilização Arcana Avançada*
-- **MySQL** — *Persistência de Memória*
-- **Docker** — *Conjuração de Ambientes*
-- **Python** — *Automação e Scripts Ocultos*
-
----
-
-## 🧰 Equipamentos
-
-- 🖥️ VS Code + Extensões Lendárias  
-- 🧪 Git & GitHub (Controle de Versões Temporais)  
-- ☕ Café (Buff permanente de foco +10)  
+| 🧠 Atributos | ⚔️ Skills Técnicas |
+|-------------|-------------------|
+| 💪 **Força:** 7 | 🟢 **Nuxt.js** — Interfaces modernas |
+| 🧠 **Inteligência:** 18 | 🟡 **JavaScript** — DOM & lógica |
+| ⚡ **Agilidade:** 14 | 🔵 **HTML5** — Estruturação |
+| 🛡️ **Resistência:** 15 | 🎨 **CSS / Tailwind** — Estilo arcano |
+| 🧙 **Sabedoria:** 16 | 🐬 **MySQL** — Persistência |
+| 🎭 **Carisma:** 13 | 🐳 **Docker** — Ambientes |
+|  | 🐍 **Python** — Automação |
 
 ---
 
