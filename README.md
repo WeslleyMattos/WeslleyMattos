@@ -6,6 +6,10 @@ Tenho experiência com projetos pessoais, organização de código, consumo de A
 
 Atualmente buscando minha primeira oportunidade profissional na área de TI.
 
+> ⚠️ **IMPORTANTE:**  
+> **MEUS COMMITS PRINCIPAIS ACONTECEM NO GITLAB.  
+> ESTE GITHUB É MAIS UTILIZADO COMO VITRINE/PORTFÓLIO E ARMAZENAMENTO DE IDEIAS.**
+
 ---
 
 ## 🚀 Tecnologias
