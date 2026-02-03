@@ -1,48 +1,31 @@
-# 🧙‍♂️ Weslley Mattos
-### Desenvolvedor Full Stack | Classe: Artífice Arcano
+# 👋 Weslley Mattos  
+### Desenvolvedor Full Stack Júnior  
 
-> “Transformando ideias em código funcional desde o nível 1.”
+Sou desenvolvedor full stack com foco em frontend, estudando e aplicando na prática tecnologias modernas para web.  
+Tenho experiência com projetos pessoais, organização de código, consumo de APIs e integração com backend.
 
----
-
-## 📜 Ficha do Personagem
-
-- **Nome:** Weslley Mattos  
-- **Classe:** Desenvolvedor Full Stack  
-- **Especialização:** Frontend com poderes em Backend  
-- **Alinhamento:** Caótico Bom (resolve bugs às 3 da manhã)  
-- **Nível:** Em constante evolução 🚀  
+Atualmente buscando minha primeira oportunidade profissional na área de TI.
 
 ---
 
-## 🧙‍♂️ Status do Personagem
+## 🚀 Tecnologias
 
-| 🧠 Atributos | ⚔️ Skills Técnicas |
-|-------------|-------------------|
-| 💪 **Força:** 7 | 🟢 **Nuxt.js** — Interfaces modernas |
-| 🧠 **Inteligência:** 18 | 🟡 **JavaScript** — DOM & lógica |
-| ⚡ **Agilidade:** 14 | 🔵 **HTML5** — Estruturação |
-| 🛡️ **Resistência:** 15 | 🎨 **CSS / Tailwind** — Estilo arcano |
-| 🧙 **Sabedoria:** 16 | 🐬 **MySQL** — Persistência |
-| 🎭 **Carisma:** 13 | 🐳 **Docker** — Ambientes |
-|  | 🐍 **Python** — Automação |
+- **Frontend:** Nuxt.js, JavaScript, HTML5, CSS, Tailwind CSS  
+- **Backend:** Node.js, Python  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Outros:** Docker, Git, APIs REST  
 
 ---
 
-## 🌍 Habilidades Passivas (Vida Real)
+## 📌 Projetos em Destaque
 
-```js
-[
-  {
-    skill: "👨‍👦 Paternidade",
-    buffs: ["+20 Responsabilidade", "+15 Paciência", "+10 Multitasking"]
-  },
-  {
-    skill: "🎸 Violão",
-    buffs: ["+10 Criatividade", "+5 Concentração"]
-  },
-  {
-    skill: "🎣 Pesca",
-    buffs: ["+15 Calma", "+10 Estratégia"]
-  }
-]
+- 🔹 **Site pessoal:** https://weslleymattos.com.br  
+- 🔹 **Sistema de finanças pessoais** (Nuxt + PostgreSQL)  
+- 🔹 **Outros projetos disponíveis nos repositórios abaixo**
+
+---
+
+## 📫 Contato
+
+- 🌐 Portfólio: https://weslleymattos.com.br  
+- 💼 LinkedIn: linkedin.com/in/weslley-mattos
